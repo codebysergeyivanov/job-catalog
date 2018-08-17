@@ -1,0 +1,4 @@
+export const CARDS_UPDATED = 'CARDS_UPDATED';
+export const CARDS_LOADING = 'CARDS_LOADING';
+export const CARDS_ERROR = 'CARDS_ERROR';
+export const CARDS_NOT_FOUND = 'CARDS_NOT_FOUND';
