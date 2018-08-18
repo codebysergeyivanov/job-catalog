@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 
 function Info(props) {
     const job = props.location.state.job;
-    console.log(job.company_logo)
     return (
         <div className="container">
             <div className="row">
